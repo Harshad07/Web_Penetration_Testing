@@ -2,7 +2,7 @@ import requests
 import string 
 
 password = '' 
-url = "https://0a4500820399cf79804e49b4006600d2.web-security-academy.net/" #Change the URL
+url = "https://###.web-security-academy.net/" #Change the URL
 alphanum = string.ascii_lowercase + string.digits #'0123456789abcdefghijklmnopqrstuvwxyz'#
 alphanumList = list(alphanum)
 
